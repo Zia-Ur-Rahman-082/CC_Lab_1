@@ -1,0 +1,9 @@
+C:\Users\pc\Downloads\Calculator-Winforms-master\Calculator-Winforms-master\CaclulatorDemo\bin\Debug\CaclulatorDemo.exe.config
+C:\Users\pc\Downloads\Calculator-Winforms-master\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.exe
+C:\Users\pc\Downloads\Calculator-Winforms-master\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.pdb
+C:\Users\pc\Downloads\Calculator-Winforms-master\Calculator-Winforms-master\CaclulatorDemo\bin\Debug\CaclulatorDemo.exe
+C:\Users\pc\Downloads\Calculator-Winforms-master\Calculator-Winforms-master\CaclulatorDemo\bin\Debug\CaclulatorDemo.pdb
+C:\Users\pc\Downloads\Calculator-Winforms-master\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.csprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\Calculator-Winforms-master\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.Form1.resources
+C:\Users\pc\Downloads\Calculator-Winforms-master\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.Properties.Resources.resources
+C:\Users\pc\Downloads\Calculator-Winforms-master\Calculator-Winforms-master\CaclulatorDemo\obj\Debug\CaclulatorDemo.csproj.GenerateResource.Cache
